@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @KDesp73
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: despoinidisk@gmail.com
 
 <!---
 KDesp73/KDesp73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

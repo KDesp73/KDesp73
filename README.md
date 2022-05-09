@@ -3,7 +3,7 @@ Hi 👋 My name is Konstantinos Despoinidis
 Student at IEE | IHU
 🌍  I'm based in Thessaloniki
 ✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
-🧠  I'm learning Java, Javascript and Web Development
+🧠  I'm learning Java and Web Development
 
 ### Skills
 

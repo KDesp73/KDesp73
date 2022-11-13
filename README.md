@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Despoinidis</h1>
 <h3 align="center">Student at IEE | IHU</h3>
 
+- 👨‍💻 All of my projects are available at [https://kdesp73.github.io/My-Portfolio/](https://kdesp73.github.io/My-Portfolio/)
+
+- 📫 How to reach me **despoinidisk@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

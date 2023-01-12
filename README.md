@@ -1,4 +1,4 @@
-<h2>Hi !👋 My name is Konstantinos Despoinidis</h2>
+<h1>Hi !👋 My name is Konstantinos Despoinidis</h1>
 
 <h4>I am a student at IEE | IHU</h4>
 

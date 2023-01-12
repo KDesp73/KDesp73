@@ -1,6 +1,7 @@
-Hi !👋 My name is Konstantinos Despoinidis
+<h2>Hi !👋 My name is Konstantinos Despoinidis</h2>
 
-I am a student at IEE | IHU
+<h4>I am a student at IEE | IHU</h4>
+
 🌍  I'm based in Thessaloniki
 🖥️  See my portfolio at [MyPortfolio](http://users.iee.ihu.gr/~iee2021035/my-portfolio/)
 ✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)

@@ -1,4 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Konstantinos Despoinidis================================================================================================================================================I am a student at IEE | IHU---------------------------* 🌍  I'm based in Thessaloniki* 🖥️  See my portfolio at [MyPortfolio](http://users.iee.ihu.gr/~iee2021035/my-portfolio/)* ✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Konstantinos Despoinidis**
+
+I am a student at IEE | IHU**
+🌍  I'm based in Thessaloniki* 🖥️  See my portfolio at [MyPortfolio](http://users.iee.ihu.gr/~iee2021035/my-portfolio/)* ✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
 ### Skills
 

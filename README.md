@@ -3,8 +3,8 @@
 <h4>I am a student at IEE | IHU</h4>
 
 🌍  I'm based in Thessaloniki<br>
-🖥️  See my portfolio at [MyPortfolio](https://kdesp73.github.io/Portfolio/)<br>
-📄  My [Documentation Site](https://kdesp73.github.io/Docs/)<br>
+🖥️  See my [Portfolio](https://kdesp73.github.io/Portfolio/)<br>
+📄  See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
 ✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
 
 ### Skills

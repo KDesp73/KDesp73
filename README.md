@@ -4,8 +4,8 @@
 
 🌍  I'm based in Thessaloniki<br>
 🖥️  See my [Portfolio](https://kdesp73.github.io/Portfolio/)<br>
-📄  See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
-✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
+📄   See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
+✉️   You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
 
 ### Skills
 

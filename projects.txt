@@ -1,1 +1,0 @@
-{title: "Docs Site", link: "https://github.com/KDesp73/Docs", img: "https://user-images.githubusercontent.com/63654361/215619520-e666a958-6c39-417f-9e14-c702507a10c8.png"}

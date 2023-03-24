@@ -9,7 +9,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ruby,rails,html,css,js,git,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ruby,rails,html,css,js,arduino,git,processing,wordpress)](https://skillicons.dev)
 
 ### Socials
 

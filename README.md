@@ -20,5 +20,3 @@
 ### My GitHub Stats
 [![KDesp73's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDesp73&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="http://www.github.com/KDesp73"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=KDesp73&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

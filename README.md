@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-## 🧰 My Toolkit
+## My Toolkit
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ruby,rails,html,css,js,electron,arduino,git,linux,processing,wordpress)](https://skillicons.dev)
 

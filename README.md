@@ -1,22 +1,33 @@
-<h1>Hi !👋 My name is Konstantinos Despoinidis</h1>
+<div align="center">
+  <h1>Hello there 👋</h1>
+</div>
 
-<h4>I am a student at IEE | IHU</h4>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
-🌍  I'm based in Thessaloniki<br>
-🖥️  See my [Portfolio](https://kdesp73.github.io/Portfolio/)<br>
-📄   See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
-✉️   You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
-
-### Skills
+## 🧰 My Toolkit
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ruby,rails,html,css,js,electron,arduino,git,linux,processing,wordpress)](https://skillicons.dev)
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/KDesp73" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/konstantinos-despoinidis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+## About me
 
+Hi! My name is Konstantinos Despoinidis
 
-### My GitHub Stats
-[![KDesp73's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDesp73&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+I am a student at IEE | IHU</h4>
+
+🌍  I'm based in Thessaloniki<br>
+🖥️  See my [Portfolio](https://kdesp73.github.io/Portfolio/)<br>
+📄  See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
+✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
+
+## My GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KDesp73&theme=catppuccin-macchiato)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=city_lights)](https://github.com/KDesp73/KDesp73)

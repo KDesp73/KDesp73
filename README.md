@@ -28,6 +28,6 @@ I am a student at IEE | IHU</h4>
 
 ## My GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KDesp73&theme=catppuccin-macchiato)](https://git.io/streak-stats)
+[![KDesp73's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KDesp73&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=city_lights)](https://github.com/KDesp73/KDesp73)

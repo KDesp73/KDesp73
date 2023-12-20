@@ -19,7 +19,7 @@
 
 Hi! My name is Konstantinos Despoinidis
 
-I am a student at IEE | IHU</h4>
+I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
 🌍  I'm based in Thessaloniki<br>
 🖥️  See my [Portfolio](https://kdesp73.github.io/Portfolio/)<br>

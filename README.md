@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ruby,rails,html,css,js)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=electron,arduino,git,linux,processing,wordpress,neovim,cmake,svelte)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,sqlite)](https://skillicons.dev)
 
 ## About me
 

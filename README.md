@@ -12,10 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=electron,arduino,git,linux,processing,wordpress,neovim,cmake,svelte)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
 
-## Socials
-
-<p align="left"> <a href="https://www.github.com/KDesp73" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><br> <a href="https://www.linkedin.com/in/konstantinos-despoinidis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ## About me
 
 Hi! My name is Konstantinos Despoinidis

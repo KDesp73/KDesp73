@@ -1,18 +1,11 @@
-<div align="center">
-  <h1>Hello there 👋</h1>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# 💻 Tech Stack:
 
-## My Toolkit
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,ruby,rails,html,css,js)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=electron,arduino,git,linux,processing,wordpress,neovim,cmake,svelte)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=arduino,git,linux,processing,neovim,svelte,ruby)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=lua,sqlite,kotlin,androidstudio,firebase,go)](https://skillicons.dev)
 
-## About me
+# About me
 
 Hi! My name is Konstantinos Despoinidis
 
@@ -23,8 +16,10 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 📄  See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
 ✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
 
-## My GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KDesp73&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-[![KDesp73's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KDesp73&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=city_lights)](https://github.com/KDesp73/KDesp73)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KDesp73&limit=5&theme=dark&combine_all_yearly_contributions=true)

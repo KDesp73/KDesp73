@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=arduino,git,linux,processing,neovim,svelte,ruby)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=lua,sqlite,kotlin,androidstudio,firebase,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,sqlite,kotlin,androidstudio,firebase,go,bash)](https://skillicons.dev)
 
 # About me
 

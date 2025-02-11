@@ -1,9 +1,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,php)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=arduino,git,linux,processing,neovim,svelte,ruby)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=lua,sqlite,kotlin,androidstudio,firebase,go,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,arduino,git,linux,neovim,svelte,ruby,lua,sqlite,kotlin,androidstudio,firebase,go,bash&perline=6)](https://skillicons.dev) 
 
 # About me
 

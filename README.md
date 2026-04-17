@@ -1,15 +1,22 @@
+# whoami
 
-# 💻 Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,typescript,php,arduino,git,linux,neovim,lua,sqlite,kotlin,go,bash,postgres,react,zig,laravel&perline=9)](https://skillicons.dev) 
-
-# About me
-
-Hi! My name is Konstantinos Despoinidis
+Hello there! My name is Konstantinos Despoinidis
 
 I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
-🌍  I'm based in Thessaloniki<br>
-🖥️  See my [Portfolio](https://kdesp73.github.io/Portfolio/)<br>
-📄  See my [Documentation Site](https://kdesp73.github.io/Docs/)<br>
-✉️  You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
+* I'm based in Thessaloniki<br>
+* See my [Portfolio](https://kdesp73.org)<br>
+* See my [Documentation Site](https://docs.kdesp73.org)<br>
+* You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
+
+# stack
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,typescript,php,arduino,git,linux,neovim,lua,sqlite,kotlin,go,bash,postgres,react,zig,laravel&perline=9)](https://skillicons.dev) 
+
+# chess
+
+Some of my chess-related projects are listed below:
+
+- [Irida](https://github.com/KDesp73/irida) - A chess engine written in C for my diploma thesis
+- [Castro](https://github.com/KDesp73/castro) - A move generation library used by Irida
+- [libuci](https://github.com/KDesp73/libuci) - Engine-agnostic uci library

@@ -13,6 +13,10 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,typescript,php,arduino,git,linux,neovim,lua,sqlite,kotlin,go,bash,postgres,react,zig,laravel&perline=9)](https://skillicons.dev) 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # chess
 
 Some of my chess-related projects are listed below:

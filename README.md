@@ -4,10 +4,10 @@ Hello there! My name is Konstantinos Despoinidis
 
 I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
-* I'm based in Thessaloniki<br>
-* See my [Portfolio](https://kdesp73.org)<br>
-* See my [Documentation Site](https://docs.kdesp73.org)<br>
-* You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)<br>
+* I'm based in Thessaloniki, Greece
+* See my [Portfolio](https://kdesp73.org)
+* See my [Documentation Site](https://docs.kdesp73.org)
+* You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
 # stack
 

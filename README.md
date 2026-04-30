@@ -19,6 +19,8 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
 # chess
 
+<img width="400" height="400" alt="chess" src="https://github.com/user-attachments/assets/6ab7ab43-5957-47a4-9808-4b40d050a58d" />
+
 Some of my chess-related projects are listed below:
 
 - [Irida](https://github.com/KDesp73/irida) - A chess engine written in C for my diploma thesis

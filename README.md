@@ -19,7 +19,9 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
 # chess
 
+<a href="https://github.com/KDesp73/artc/blob/main/examples/chess.lua">
 <img width="400" height="400" alt="chess" src="https://github.com/user-attachments/assets/6ab7ab43-5957-47a4-9808-4b40d050a58d" />
+</a>
 
 Some of my chess-related projects are listed below:
 

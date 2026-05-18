@@ -9,6 +9,8 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 * See my [Documentation Site](https://docs.kdesp73.org)
 * You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
+![](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=KDesp&theme=dark)
+
 # stack
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,typescript,php,arduino,git,linux,neovim,lua,sqlite,kotlin,go,bash,postgres,react,zig,laravel&perline=9)](https://skillicons.dev) 

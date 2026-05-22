@@ -10,14 +10,7 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 * Check out my [bookshelf](https://bookshelf.kdesp73.org)
 * You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
-<div align="center">
-  <a href="https://www.last.fm/user/KDesp">
-    <img
-      src="https://nowplaying-three.vercel.app/api/now-playing?user=KDesp"
-      alt="Last.fm now playing"
-    />
-  </a>
-</div>
+![](https://nowplaying-three.vercel.app/api/now-playing?user=KDesp&spin=always&cover=cd)
 
 # stack
 

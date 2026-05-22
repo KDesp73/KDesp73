@@ -10,7 +10,9 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 * Check out my [bookshelf](https://bookshelf.kdesp73.org)
 * You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
-![](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=KDesp&theme=dark)
+![](https://nowplaying-three.vercel.app/api/now-playing?user=KDesp)
+
+
 
 # stack
 

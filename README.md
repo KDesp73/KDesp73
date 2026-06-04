@@ -7,7 +7,7 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 * I'm based in Thessaloniki, Greece
 * See my [Portfolio](https://kdesp73.org)
 * See my [Documentation Site](https://docs.kdesp73.org)
-* Check out my [bookshelf](https://bookshelf.kdesp73.org)
+* Check out my [bookshelf](https://bookshelf.kdesp73.org/u/kdesp73)
 * You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
 <a href="https://github.com/KDesp73/nowplaying">

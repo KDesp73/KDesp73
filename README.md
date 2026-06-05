@@ -8,13 +8,16 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 * See my [Portfolio](https://kdesp73.org)
 * See my [Documentation Site](https://docs.kdesp73.org)
 * Check out my [bookshelf](https://bookshelf.kdesp73.org/u/kdesp73)
+  
+![](https://bookshelf.kdesp73.org/api/profile/kdesp73/share.svg)
+
 * You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 
 <a href="https://github.com/KDesp73/nowplaying">
 <img src="https://nowplaying-three.vercel.app/api/now-playing?user=KDesp&spin=always&cover=cd" />
 </a>
 
-![](https://bookshelf.kdesp73.org/api/profile/kdesp73/share.svg)
+
 
 # stack
 

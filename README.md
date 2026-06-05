@@ -14,6 +14,8 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 <img src="https://nowplaying-three.vercel.app/api/now-playing?user=KDesp&spin=always&cover=cd" />
 </a>
 
+![](https://bookshelf.kdesp73.org/api/profile/kdesp73/share.svg)
+
 # stack
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,typescript,php,arduino,git,linux,neovim,lua,sqlite,kotlin,go,bash,postgres,react,zig,laravel&perline=9)](https://skillicons.dev) 

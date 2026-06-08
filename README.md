@@ -9,7 +9,9 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 * See my [Documentation Site](https://docs.kdesp73.org)
 * Check out my [bookshelf](https://bookshelf.kdesp73.org/u/kdesp73)
   
-![](https://bookshelf.kdesp73.org/api/profile/kdesp73/share.svg)
+<a href="https://bookshelf.kdesp73.org/u/kdesp73">
+<img src="https://bookshelf.kdesp73.org/api/profile/kdesp73/share.svg" />
+</a>
 
 * You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 

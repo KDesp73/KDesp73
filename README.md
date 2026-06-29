@@ -6,6 +6,7 @@ Hello there! My name is Konstantinos Despoinidis
 I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 
 * I'm based in Thessaloniki, Greece
+* You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
 * See my [Portfolio](https://cli.kdesp73.org)
 * See my [Documentation Site](https://docs.kdesp73.org)
 * Check out my [garden](https://gardener.kdesp73.org)
@@ -15,22 +16,13 @@ I am a student at [IEE | IHU](https://www.iee.ihu.gr/en/)
 <img src="https://bookshelf.kdesp73.org/api/profile/kdesp73/share.svg" />
 </a>
 
-* You can contact me at [despoinidisk@gmail.com](mailto:despoinidisk@gmail.com)
-
 <a href="https://github.com/KDesp73/nowplaying">
 <img src="https://nowplaying-three.vercel.app/api/now-playing?user=KDesp&spin=always&cover=cd" />
 </a>
 
-
-
 # stack
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,typescript,php,arduino,git,linux,neovim,lua,sqlite,kotlin,go,bash,postgres,react,zig,laravel&perline=9)](https://skillicons.dev) 
-
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDesp73&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
-</div>
 
 # chess
 
